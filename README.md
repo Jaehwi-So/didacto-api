@@ -15,14 +15,24 @@
 | 팀원 | 김태영 | Front-end, 교수자용 Web Application |
 | 팀원 | 이지민 | Front-end, 학생용 Desktop Application (Web to App) |
 <Br>
+
+> **Repository**
+> 
+[Organization](https://github.com/orgs/DIDACTO-SMU)   
+[Core API Server](https://github.com/DIDACTO-SMU/didacto-api)   
+[Event Server](https://github.com/DIDACTO-SMU/didacto-event-service)  
+<Br>
+
 > **작업 컨벤션 및 Docs**
 > 
+
 [기본 코드 작성 컨벤션](https://github.com/DIDACTO-SMU/didacto-api/pull/7)   
 [작업 컨벤션 (Git)](https://github.com/DIDACTO-SMU/didacto-api/wiki/%08Work-Convention)   
 [계층별 모듈의 주요 책임 및 고려할 점](https://sjh9708.tistory.com/239)  
 [테스트 코드 작성 전략](https://sjh9708.tistory.com/240)     
 [Web RTC 연동하기](https://sjh9708.tistory.com/171)   
 <Br><Br>
+
 > **주제 및 문제 정의**
 > 
 
